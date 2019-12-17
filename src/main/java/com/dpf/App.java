@@ -10,5 +10,10 @@ public class App {
         System.out.println("");
         System.out.println("dev");
         System.out.println("aaa");
+        System.out.println("bbb");
+        System.out.println("ccc");
+        System.out.println("骑上我心爱的小摩托");
+        System.out.println("123");
+
     }
 }
